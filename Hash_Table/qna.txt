@@ -1,4 +1,4 @@
-What is sorting?
+Define sorting
 Sorting is the process of arranging or ordering a collection of items such that each item and its successor satisfy a prescribed relationship. The items can be simple values, such as integers and reals, or more complex types, such as student records or dictionary entries. In either case, the ordering of the items is based on the value of a sort key. The key is the value itself when sorting simple types or it can be a specific component or a combination of components when sorting complex types.
 
 What are the applications of sorting?
